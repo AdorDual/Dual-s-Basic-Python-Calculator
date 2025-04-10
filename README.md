@@ -29,14 +29,6 @@ Choose an operation (+, -, *, /): +
 Result: 10.0 + 5.0 = 15.0
 ```
 
-## How to Run
-
-Make sure you have Python installed. Then:
-
-```bash
-python calculator.py
-```
-
 ## Author
 
 **Dual Ador Arok**  
